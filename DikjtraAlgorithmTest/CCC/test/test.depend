@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1457454412 source:/Users/georgeyuan/Documents/Computer/CCC/test/main.cpp
-	<iostream>
-	<vector>
-	<string>
-	<stdlib.h>
-	<map>
-

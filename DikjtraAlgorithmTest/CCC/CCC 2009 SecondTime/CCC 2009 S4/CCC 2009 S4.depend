@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1451244882 source:c:\users\ayuan\documents\computer\ccc\ccc 2009 secondtime\ccc 2009 s4\main.cpp
-	<iostream>
-	<fstream>
-	<vector>
-	<queue>
-	<map>
-

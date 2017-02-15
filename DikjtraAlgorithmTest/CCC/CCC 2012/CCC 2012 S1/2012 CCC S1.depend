@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1413232289 source:c:\users\ayuan\documents\computer\ccc\2012 ccc s1\main.cpp
-	<iostream>
-	<cstdlib>
-
-1422570230 source:c:\users\ayuan\documents\computer\ccc\ccc 2012\ccc 2012 s1\main.cpp
-	<iostream>
-	<fstream>
-

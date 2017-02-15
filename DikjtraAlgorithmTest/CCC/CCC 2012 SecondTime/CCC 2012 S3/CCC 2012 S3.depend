@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1451589765 source:c:\users\ayuan\documents\computer\ccc\ccc 2012 secondtime\ccc 2012 s3\main.cpp
-	<iostream>
-	<fstream>
-	<map>
-	<queue>
-

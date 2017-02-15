@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1455561915 source:c:\users\ayuan\desktop\2016 ccc practice test\questionfour\main.cpp
-	<iostream>
-	<fstream>
-	<map>
-	<vector>
-	<set>
-	<queue>
-

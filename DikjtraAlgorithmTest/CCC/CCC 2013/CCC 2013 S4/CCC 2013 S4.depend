@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1449089516 source:c:\users\ayuan\documents\computer\ccc\ccc 2013\ccc 2013 s4\main.cpp
-	<iostream>
-	<fstream>
-	<set>
-	<vector>
-
