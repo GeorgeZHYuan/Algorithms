@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1424215807 source:c:\users\ayuan\desktop\dikjtraalgorithmtest\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<set>
+

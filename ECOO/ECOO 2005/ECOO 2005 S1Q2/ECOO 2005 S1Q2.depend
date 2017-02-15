@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1429377133 source:c:\users\ayuan\documents\computer\ecoo\ecoo 2005\ecoo 2005 s1q2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<string>
+

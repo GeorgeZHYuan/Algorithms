@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1427464982 source:c:\users\kevin\desktop\ecoo 2015 q1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1427464541 source:c:\users\ayuan\desktop\ecoo 2015\ecoo 2015 q1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+

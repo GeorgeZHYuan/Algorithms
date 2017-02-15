@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435955886 source:c:\users\ayuan\documents\computer\ccc\ccc 2007\ccc 2007 s5 secondtime\ccc 2007 s5 at2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

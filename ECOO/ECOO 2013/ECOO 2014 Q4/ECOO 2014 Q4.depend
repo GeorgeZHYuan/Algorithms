@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426385156 source:c:\users\ayuan\documents\computer\ecoo\ecoo 2013\ecoo 2014 q4\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448742070 source:c:\users\ayuan\documents\computer\ccc\ccc 2013 secondtime\ccc 2013 s4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<map>
+

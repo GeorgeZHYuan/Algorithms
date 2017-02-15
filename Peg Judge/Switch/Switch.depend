@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1442103370 source:c:\users\ayuan\documents\computer\peg judge\switch\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1422569065 source:c:\users\ayuan\documents\computer\ccc\ccc 2014\ccc 2014 s5\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<cmath>
+

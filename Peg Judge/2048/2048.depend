@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441229200 source:c:\users\ayuan\documents\computer\peg judge\2048\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+

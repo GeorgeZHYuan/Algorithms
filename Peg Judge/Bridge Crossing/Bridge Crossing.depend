@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441313804 source:c:\users\ayuan\documents\computer\peg judge\bridge crossing\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

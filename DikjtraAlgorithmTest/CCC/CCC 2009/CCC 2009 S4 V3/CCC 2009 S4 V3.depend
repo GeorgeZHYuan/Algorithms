@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439925242 source:c:\users\ayuan\documents\computer\ccc\ccc 2009\ccc 2009 s4 v3\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	<queue>
+	<vector>
+

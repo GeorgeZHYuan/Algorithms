@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459294134 source:c:\users\ayuan\documents\computer\ecoocs_2015\ecoo 2015 round 1\ecoo2015r1q1\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

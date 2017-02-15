@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1421021278 source:c:\users\ayuan\documents\computer\ccc\ccc 2007\ccc 2007 s1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

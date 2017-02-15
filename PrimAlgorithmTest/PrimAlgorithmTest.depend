@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1424028544 source:c:\users\ayuan\desktop\primalgorithmtest\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<set>
+

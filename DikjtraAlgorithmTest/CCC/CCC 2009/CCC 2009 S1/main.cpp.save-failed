@@ -1,0 +1,19 @@
+#include <iostream>
+#include <math.h>
+
+using namespace std;
+
+int main()
+{
+    float startNumber;
+    float endNumber;
+    int coolNumbers = 0;
+
+    cin >> startNumber >> endNumber;
+
+        cout << pow (8, 1/3) << endl;
+
+    cout << coolNumbers << endl;
+
+    return 0;
+}
